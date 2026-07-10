@@ -1,0 +1,7 @@
+# Exclude EVERYTHING by default
+*
+# But explicitly include the safe portfolio assets
+!README.md
+!portfolio_assets/
+!portfolio_assets/*
+!.gitignore
